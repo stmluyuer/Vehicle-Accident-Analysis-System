@@ -25,11 +25,6 @@
 
 另外，在本地可以预览accident_heatmap.html热力图
 
-## 成果
-
-![优化结果-1](assets/save/Test-1.png)
-![优化结果-2](assets/save/Test-2.png)
-
 ### 数据处理流程
 
 ![堆积柱状图](assets/save/堆积柱状.png)
@@ -57,6 +52,6 @@
 ![箱线图](assets/save/箱线图.png)
 ## 安装
 
-安装必要的 Python 库：
+安装依赖：
 ```bash
 pip install -r requirements.txt
